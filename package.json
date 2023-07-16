@@ -14,5 +14,8 @@
     "@types/node": "^18.16.19",
     "dayjs-nuxt": "^1.1.2",
     "nuxt": "^3.6.3"
+  },
+  "dependencies": {
+    "add-to-calendar-button": "^2.2.10"
   }
 }
